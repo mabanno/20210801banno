@@ -1,0 +1,65 @@
+.css1 {
+  color: #000080;
+  display: flex;
+}
+
+.css2 {
+  color: #000080;
+  margin: 30px 0px 0px 30px;
+
+}
+
+.css3 {
+  margin: 0 0 0 auto;
+  padding: 30px 0px 0px 0px;
+}
+
+.css4 {
+  color: #000080;
+  margin: 10px;
+}
+
+.css5 {
+  color: #000080;
+  margin: 10px;
+}
+
+.css6 {
+  color: #000080;
+  margin: 10px;
+}
+
+.css7 {
+  color: #000080;
+  margin: 10px;
+}
+
+.css8 {
+  position: relative;
+  top: 100px;
+}
+
+.css9{
+  margin: 0 0 0 auto;
+  display: block;
+  position: relative;
+  width: 50%;
+}
+
+.css10 {
+  font-size: 400%;
+  font-weight: 500;
+  padding: 0px;
+  margin: 0px;
+  margin-top: -200px;
+}
+
+.grid {
+  display: grid;
+  grid-template-rows: 200px;
+  grid-template-columns: 3fr 1fr;
+}
+
+.box1 {
+  background: #000080;
+}
